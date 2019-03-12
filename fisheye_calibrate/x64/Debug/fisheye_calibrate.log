@@ -1,0 +1,9 @@
+﻿  fisheye_calibrate.cpp
+e:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\fisheye_calibrate\fisheye_calibrate.cpp(119): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\fisheye_calibrate\fisheye_calibrate.cpp(120): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\fisheye_calibrate\fisheye_calibrate.cpp(161): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\fisheye_calibrate\fisheye_calibrate.cpp(162): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\fisheye_calibrate\fisheye_calibrate.cpp(165): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\fisheye_calibrate\fisheye_calibrate.cpp(166): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  fisheye_calibrate.vcxproj -> E:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\x64\Debug\fisheye_calibrate.exe
+  fisheye_calibrate.vcxproj -> E:\大容量资源保存\单目标定&测距\鱼眼标定\fisheye_calibration-master\fisheye_calibrate\x64\Debug\fisheye_calibrate.pdb (Full PDB)
